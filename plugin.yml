@@ -1,0 +1,6 @@
+main: me.ifamasssxd.test.Test
+version: 1.0
+name: Test
+commands:
+  gimme:
+    description: Gives you that gold swag.
